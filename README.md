@@ -230,6 +230,8 @@ Baseline Installation of a Linux server hosting the Catalog application created 
 - [mod_wsgi(Apache)](http://flask.pocoo.org/docs/0.12/deploying/mod_wsgi/)
 - [digitalocean - Apache virtual hosts](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
 - [WSGIPythonPath](https://modwsgi.readthedocs.io/en/develop/configuration-directives/WSGIPythonPath.html)
+- [rrjoson - github](https://github.com/rrjoson/udacity-linux-server-configuration)
+- [granting sudoers permission](https://www.garron.me/en/linux/visudo-command-sudoers-file-sudo-default-editor.html)
 
 ## License:
 
