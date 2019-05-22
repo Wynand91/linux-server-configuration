@@ -3,8 +3,8 @@
 Baseline Installation of a Linux server hosting the Catalog application created earlier in the Nanodegree.
 
 ## _Important information:_
-   - Application URL: [http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/](http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/)
-   - IP address: 18.195.96.160 (**Do not access site only by IP address! - OAuth will not work**)
+   - ~~Application URL: [http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/](http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/)~~
+   - IP address: ~~18.195.96.160~~ (**Do not access site only by IP address! - OAuth will not work**)
    - SSH port: 2200 
    
 
@@ -212,7 +212,7 @@ Baseline Installation of a Linux server hosting the Catalog application created 
     - sudo service apache2 reload
     - sudo service apache2 restart
     
-   App is now up and running at [http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/](http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/)
+   ~~App is now up and running at [http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/](http://ec2-18-195-96-160.eu-central-1.compute.amazonaws.com/)~~
 
 ## Author:
    - Wynand Theron    
